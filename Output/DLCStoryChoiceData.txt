@@ -1,0 +1,5 @@
+ChoiceID	ChoiceTitle	Choice1Text	Choice2Text	Choice1Story	Choice2Story	MergedStory
+剧情选项id	选项标题	选项1文字	选项2文字	选项1跳转到的剧情	选项2跳转到的剧情	分支剧情结束后，跳转到的正常剧情
+Client	Client	Client	Client	Client	Client	Client
+int	int	int	int	int	int	int
+1	0	409901	409902	3	4	5
